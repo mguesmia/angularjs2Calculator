@@ -1,10 +1,10 @@
 # Angular 2 Calculator example
 
 ## Description
-This repository show a simple Angular 2 calculator demostrating the use  of
+This repository shows a simple Angular 2 calculator demonstrating the use  of
 custom component,
-ngfor,\n
-http, \n
+ngfor,
+http,
 service,
 dependency injection,
 Map
