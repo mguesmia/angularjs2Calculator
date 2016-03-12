@@ -46,11 +46,11 @@ gulp.task('build-ts', function () {
 });
 
 gulp.task('build-data', function () {
-    return gulp.src(assetsDev + 'data/**/*')
+    return gulp.src(appDev + 'data/**/*')
         .pipe(imagemin({
             progressive: true
         }))
-        .pipe(gulp.dest(assetsProd + 'data/'));
+        .pipe(gulp.dest(appProd + 'data/'));
 });
 
 gulp.task('build-img', function () {
