@@ -1,7 +1,18 @@
 # Angular 2 Calculator example
 
 ## Description
-This repository show a simple Angular 2 calculator demostrating the use  custom component, ngfor, http, service, dependency injection
+This repository show a simple Angular 2 calculator demostrating the use  of
+custom component,
+ngfor,
+http,
+service,
+dependency injection,
+Map
+@input
+@output
+Polymorphism is typescript
+data binding
+
 
 [here](https://angular.io/docs/ts/latest/quickstart.html).
 ## Usage
