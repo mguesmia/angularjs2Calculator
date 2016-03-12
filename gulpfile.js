@@ -74,4 +74,4 @@ gulp.task('watch', function () {
 
 });
 
-gulp.task('default', ['watch', 'build-ts', 'build-css']);
+gulp.task('default', ['watch', 'build-ts', 'build-css','build-data']);
