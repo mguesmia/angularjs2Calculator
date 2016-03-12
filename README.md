@@ -3,8 +3,8 @@
 ## Description
 This repository show a simple Angular 2 calculator demostrating the use  of
 custom component,
-ngfor,
-http,
+ngfor,\n
+http, \n
 service,
 dependency injection,
 Map
