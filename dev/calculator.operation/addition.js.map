@@ -1,0 +1,1 @@
+{"version":3,"file":"addition.js","sourceRoot":"","sources":["addition.ts"],"names":["Addition","Addition.constructor","Addition.runOperation"],"mappings":"AAAA;;GAEG;AAGH;IAAAA;IAIAC,CAACA;IAHGD,+BAAYA,GAAZA,UAAaA,KAAYA,EAACA,MAAaA;QACnCE,MAAMA,CAACA,KAAKA,GAAGA,MAAMA,CAACA;IAC1BA,CAACA;IACLF,eAACA;AAADA,CAACA,AAJD,IAIC;AAJY,gBAAQ,WAIpB,CAAA"}
