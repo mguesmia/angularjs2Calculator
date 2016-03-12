@@ -10,8 +10,8 @@ dependency injection,
 Map
 @input
 @output
-Polymorphism is typescript
-data binding
+Polymorphism in typescript
+and data binding
 
 
 [here](https://angular.io/docs/ts/latest/quickstart.html).
