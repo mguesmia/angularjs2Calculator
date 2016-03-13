@@ -13,6 +13,9 @@ Map
 Polymorphism in typescript
 and data binding
 
+live demo https://plnkr.co/edit/SESJ4g?p=preview
+
+
 
 [here](https://angular.io/docs/ts/latest/quickstart.html).
 ## Usage
